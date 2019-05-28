@@ -1,0 +1,33 @@
+html, body {
+  margin: 15px;
+}
+
+button {
+  cursor: pointer;
+}
+
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+nav {
+  position: relative;
+  float: right;
+  top: 25px;
+  right: 25px;
+}
+
+/* classes */
+.button {
+  color: white;
+  background-color: blue;
+  border-color: blue;
+  border-radius: 5px;
+}
+
+.right {
+  align-items: right;
+}
+
